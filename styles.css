@@ -15,7 +15,7 @@ body {
 }
 
 .image-viewer__title {
-	font-size: 5rem;
+	font-size: 4rem;
 	font-weight: 600;
 	color: #615dec;
 	margin: 0;
@@ -57,7 +57,7 @@ body {
 .image-viewer__display {
 	position: relative;
 	padding: 15px;
-	margin: 3rem;
+	margin: 2rem;
 	max-width: 80rem;
 	display: flex;
 	flex-direction: column;
